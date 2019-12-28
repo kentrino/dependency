@@ -10,6 +10,6 @@ import kotlin.test.assertTrue
 class TheDependencyTest {
     @Test
     fun `test version string is correct`() {
-        assertEquals("0.0.2", TheDependency.version)
+        assertEquals("0.0.3", TheDependency.version)
     }
 }
