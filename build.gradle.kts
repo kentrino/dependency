@@ -1,6 +1,10 @@
+group = "com.kentrino.dependency"
+version = "0.0.1"
+
 plugins {
     id("org.jetbrains.kotlin.jvm") version "1.3.41"
     `java-library`
+    maven
 }
 
 repositories {
