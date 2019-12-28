@@ -5,5 +5,5 @@ package com.kentrino.thedependency
 
 object TheDependency {
     @JvmStatic
-    val version = "0.0.1"
+    val version = "0.0.2"
 }
