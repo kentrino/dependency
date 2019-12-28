@@ -6,4 +6,7 @@ package com.kentrino.thedependency
 object TheDependency {
     @JvmStatic
     val version = "0.0.3"
+
+    @JvmStatic
+    var variable = ""
 }
